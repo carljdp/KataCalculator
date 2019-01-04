@@ -34,8 +34,13 @@ namespace KataCalculatorTests
             Assert.AreEqual(6, StringCalculator.Add("1,2,3"));
             Assert.AreEqual(20, StringCalculator.Add("3,5,3,9"));
         }
-        
-        
+
+        [TestMethod]
+        public void Step5_NewLineBreakAndCommaDelimiterShouldBeInterchangeable()
+        {
+            Assert.AreEqual(6, StringCalculator.Add("1,2\n3"));
+            Assert.AreEqual(20, StringCalculator.Add("3\n5\n3,9"));
+        }
         
     }
 }

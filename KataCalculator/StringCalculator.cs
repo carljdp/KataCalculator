@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
+using System.Text.RegularExpressions;
 
 namespace KataCalculator
 
@@ -19,15 +20,15 @@ namespace KataCalculator
             {
                 return number;
             }
-            
+
             // Split input string
-            var strNumbers = str.Split(',');
+           var strNumbers = str.Split(new string[] {",","\n"}, StringSplitOptions.None);
             
             if (strNumbers.Length >= 1)
             {
                 foreach (var strNumber in strNumbers)
                 {
-                    number = number + int.Parse(strNumber);
+                  number = number + int.Parse(strNumber);
                 }
             }
             
