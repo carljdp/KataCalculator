@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace KataCalculator
 
@@ -13,7 +14,19 @@ namespace KataCalculator
 
         public static int Add(string str)
         {
-            return 0;
+            var number = 0;
+            
+            try
+            {
+                number = int.Parse(str);
+            }
+            catch
+            {
+                throw;
+            }
+
+
+            return number;
         }
         
         

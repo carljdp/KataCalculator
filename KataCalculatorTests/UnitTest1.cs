@@ -12,8 +12,14 @@ namespace KataCalculatorTests
         {
             Assert.AreEqual(0, Program.Add(""));
         }
-        
-        
+
+        [TestMethod]
+        public void Step2_ShouldTakeASingleNumberAndReturnThatNumber()
+        {
+            
+            Assert.AreEqual(1, Program.Add("1"));
+            Assert.AreEqual(3, Program.Add("3"));
+        }
         
     }
 }
