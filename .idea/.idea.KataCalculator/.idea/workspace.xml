@@ -24,10 +24,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dd3c281-adbd-41fd-932b-1a62413e73f5" name="Write Test 2" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.KataCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KataCalculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KataCalculator/KataCalculator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/KataCalculator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KataCalculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/StringCalculator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" afterDir="false" />
@@ -65,13 +66,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="579" />
+          <entry key="cs" value="844" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="579" />
+          <entry key="C#" value="844" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -98,14 +99,15 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+                <state relative-caret-position="399">
+                  <caret line="26" column="57" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="57" />
                   <folding>
-                    <marker date="1546593313108" expanded="false" signature="6:99" ph="..." />
-                    <marker date="1546593313108" expanded="true" signature="130:576" ph="{...}" />
-                    <marker date="1546593313108" expanded="true" signature="175:574" ph="{...}" />
-                    <marker date="1546593313108" expanded="true" signature="264:333" ph="{...}" />
-                    <marker date="1546593313108" expanded="true" signature="426:559" ph="{...}" />
+                    <marker date="1546594883548" expanded="false" signature="6:99" ph="..." />
+                    <marker date="1546594883548" expanded="true" signature="130:815" ph="{...}" />
+                    <marker date="1546594883548" expanded="true" signature="175:813" ph="{...}" />
+                    <marker date="1546594883548" expanded="true" signature="264:342" ph="{...}" />
+                    <marker date="1546594883548" expanded="true" signature="435:586" ph="{...}" />
+                    <marker date="1546594883548" expanded="true" signature="656:798" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -116,18 +118,19 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/KataCalculator/Program.cs">
+            <entry file="file://$PROJECT_DIR$/KataCalculator/StringCalculator.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+                <state relative-caret-position="422">
+                  <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
                   <folding>
-                    <marker date="1546593750653" expanded="true" signature="6:66" ph="..." />
-                    <marker date="1546593750653" expanded="true" signature="93:551" ph="{...}" />
-                    <marker date="1546593750653" expanded="true" signature="127:546" ph="{...}" />
-                    <marker date="1546593750653" expanded="true" signature="180:226" ph="{...}" />
-                    <marker date="1546593750653" expanded="true" signature="269:513" ph="{...}" />
-                    <marker date="1546593750653" expanded="true" signature="336:405" ph="{...}" />
-                    <marker date="1546593750653" expanded="true" signature="423:474" ph="{...}" />
+                    <marker date="1546594933664" expanded="false" signature="6:66" ph="..." />
+                    <marker date="1546594933664" expanded="true" signature="93:788" ph="{...}" />
+                    <marker date="1546594933664" expanded="true" signature="136:786" ph="{...}" />
+                    <marker date="1546594933664" expanded="true" signature="189:212" ph="{...}" />
+                    <marker date="1546594933664" expanded="true" signature="255:780" ph="{...}" />
+                    <marker date="1546594933664" expanded="true" signature="349:408" ph="{...}" />
+                    <marker date="1546594933664" expanded="true" signature="553:731" ph="{...}" />
+                    <marker date="1546594933664" expanded="true" signature="621:717" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -141,15 +144,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/KataCalculator/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KataCalculator/StringCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C373863-6F48-4879-837A-7C6FC5984C06/9e/aed0df03/Assert.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/KataCalculator/Program.cs" />
+        <option value="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/KataCalculator/StringCalculator.cs" />
       </list>
     </option>
   </component>
@@ -253,14 +257,14 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1546591529626</updated>
-      <workItem from="1546591529831" duration="2001000" />
+      <workItem from="1546591529831" duration="3171000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3598000" />
+    <option name="totallyTimeSpent" value="4768000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,7 +277,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13791732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -342,32 +345,34 @@
     <entry file="file://$PROJECT_DIR$/KataCalculatorTests/KataCalculatorTests.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/KataCalculator/Program.cs">
+    <entry file="file://$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="399">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="57" />
           <folding>
-            <marker date="1546593750653" expanded="true" signature="6:66" ph="..." />
-            <marker date="1546593750653" expanded="true" signature="93:551" ph="{...}" />
-            <marker date="1546593750653" expanded="true" signature="127:546" ph="{...}" />
-            <marker date="1546593750653" expanded="true" signature="180:226" ph="{...}" />
-            <marker date="1546593750653" expanded="true" signature="269:513" ph="{...}" />
-            <marker date="1546593750653" expanded="true" signature="336:405" ph="{...}" />
-            <marker date="1546593750653" expanded="true" signature="423:474" ph="{...}" />
+            <marker date="1546594883548" expanded="false" signature="6:99" ph="..." />
+            <marker date="1546594883548" expanded="true" signature="130:815" ph="{...}" />
+            <marker date="1546594883548" expanded="true" signature="175:813" ph="{...}" />
+            <marker date="1546594883548" expanded="true" signature="264:342" ph="{...}" />
+            <marker date="1546594883548" expanded="true" signature="435:586" ph="{...}" />
+            <marker date="1546594883548" expanded="true" signature="656:798" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs">
+    <entry file="file://$PROJECT_DIR$/KataCalculator/StringCalculator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="422">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding>
-            <marker date="1546593313108" expanded="false" signature="6:99" ph="..." />
-            <marker date="1546593313108" expanded="true" signature="130:576" ph="{...}" />
-            <marker date="1546593313108" expanded="true" signature="175:574" ph="{...}" />
-            <marker date="1546593313108" expanded="true" signature="264:333" ph="{...}" />
-            <marker date="1546593313108" expanded="true" signature="426:559" ph="{...}" />
+            <marker date="1546594933664" expanded="false" signature="6:66" ph="..." />
+            <marker date="1546594933664" expanded="true" signature="93:788" ph="{...}" />
+            <marker date="1546594933664" expanded="true" signature="136:786" ph="{...}" />
+            <marker date="1546594933664" expanded="true" signature="189:212" ph="{...}" />
+            <marker date="1546594933664" expanded="true" signature="255:780" ph="{...}" />
+            <marker date="1546594933664" expanded="true" signature="349:408" ph="{...}" />
+            <marker date="1546594933664" expanded="true" signature="553:731" ph="{...}" />
+            <marker date="1546594933664" expanded="true" signature="621:717" ph="{...}" />
           </folding>
         </state>
       </provider>
