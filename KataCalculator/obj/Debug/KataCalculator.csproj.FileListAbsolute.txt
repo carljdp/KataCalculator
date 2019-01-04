@@ -1,0 +1,6 @@
+C:\source\carljdp\KataCalulator\KataCalculator\bin\Debug\KataCalculator.exe
+C:\source\carljdp\KataCalulator\KataCalculator\bin\Debug\KataCalculator.pdb
+C:\source\carljdp\KataCalulator\KataCalculator\obj\Debug\KataCalculator.csprojAssemblyReference.cache
+C:\source\carljdp\KataCalulator\KataCalculator\obj\Debug\KataCalculator.csproj.CoreCompileInputs.cache
+C:\source\carljdp\KataCalulator\KataCalculator\obj\Debug\KataCalculator.exe
+C:\source\carljdp\KataCalulator\KataCalculator\obj\Debug\KataCalculator.pdb

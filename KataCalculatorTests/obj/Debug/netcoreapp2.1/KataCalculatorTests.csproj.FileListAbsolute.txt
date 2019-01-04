@@ -1,0 +1,17 @@
+C:\source\carljdp\KataCalulator\KataCalculatorTests\obj\Debug\netcoreapp2.1\KataCalculatorTests.csprojAssemblyReference.cache
+C:\source\carljdp\KataCalulator\KataCalculatorTests\obj\Debug\netcoreapp2.1\KataCalculatorTests.csproj.CoreCompileInputs.cache
+C:\source\carljdp\KataCalulator\KataCalculatorTests\obj\Debug\netcoreapp2.1\KataCalculatorTests.AssemblyInfoInputs.cache
+C:\source\carljdp\KataCalulator\KataCalculatorTests\obj\Debug\netcoreapp2.1\KataCalculatorTests.AssemblyInfo.cs
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\KataCalculatorTests.deps.json
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\KataCalculatorTests.runtimeconfig.json
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\KataCalculatorTests.runtimeconfig.dev.json
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\KataCalculatorTests.dll
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\KataCalculatorTests.pdb
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\KataCalculator.exe
+C:\source\carljdp\KataCalulator\KataCalculatorTests\bin\Debug\netcoreapp2.1\KataCalculator.pdb
+C:\source\carljdp\KataCalulator\KataCalculatorTests\obj\Debug\netcoreapp2.1\KataCalculatorTests.csproj.CopyComplete
+C:\source\carljdp\KataCalulator\KataCalculatorTests\obj\Debug\netcoreapp2.1\KataCalculatorTests.dll
+C:\source\carljdp\KataCalulator\KataCalculatorTests\obj\Debug\netcoreapp2.1\KataCalculatorTests.pdb
