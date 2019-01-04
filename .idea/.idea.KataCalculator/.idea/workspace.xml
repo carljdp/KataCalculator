@@ -24,16 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dd3c281-adbd-41fd-932b-1a62413e73f5" name="Write Test 2" comment="">
-      <change beforePath="$PROJECT_DIR$/KataCalculator/KataCalculator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/KataCalculator.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/StringCalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/bin/Debug/KataCalculator.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculator/obj/Debug/KataCalculator.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculator.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculatorTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculatorTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculatorTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculatorTests/bin/Debug/netcoreapp2.1/KataCalculatorTests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KataCalculatorTests/obj/Debug/netcoreapp2.1/KataCalculatorTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/KataCalculatorTests/obj/Debug/netcoreapp2.1/KataCalculatorTests.csprojAssemblyReference.cache" afterDir="false" />
@@ -66,13 +57,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="844" />
+          <entry key="cs" value="944" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="844" />
+          <entry key="C#" value="944" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -99,15 +90,16 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="26" column="57" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="57" />
+                <state relative-caret-position="551">
+                  <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
                   <folding>
-                    <marker date="1546594883548" expanded="false" signature="6:99" ph="..." />
-                    <marker date="1546594883548" expanded="true" signature="130:815" ph="{...}" />
-                    <marker date="1546594883548" expanded="true" signature="175:813" ph="{...}" />
-                    <marker date="1546594883548" expanded="true" signature="264:342" ph="{...}" />
-                    <marker date="1546594883548" expanded="true" signature="435:586" ph="{...}" />
-                    <marker date="1546594883548" expanded="true" signature="656:798" ph="{...}" />
+                    <marker date="1546595417321" expanded="false" signature="6:99" ph="..." />
+                    <marker date="1546595417321" expanded="true" signature="130:1064" ph="{...}" />
+                    <marker date="1546595417321" expanded="true" signature="175:1062" ph="{...}" />
+                    <marker date="1546595417321" expanded="true" signature="264:342" ph="{...}" />
+                    <marker date="1546595417321" expanded="true" signature="435:586" ph="{...}" />
+                    <marker date="1546595417321" expanded="true" signature="656:798" ph="{...}" />
+                    <marker date="1546595417321" expanded="true" signature="880:1029" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -152,8 +144,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/KataCalculator/Program.cs" />
-        <option value="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/KataCalculator/StringCalculator.cs" />
+        <option value="$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs" />
       </list>
     </option>
   </component>
@@ -257,14 +249,14 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1546591529626</updated>
-      <workItem from="1546591529831" duration="3171000" />
+      <workItem from="1546591529831" duration="3644000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4768000" />
+    <option name="totallyTimeSpent" value="5241000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,6 +269,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13791732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -345,21 +338,6 @@
     <entry file="file://$PROJECT_DIR$/KataCalculatorTests/KataCalculatorTests.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="57" />
-          <folding>
-            <marker date="1546594883548" expanded="false" signature="6:99" ph="..." />
-            <marker date="1546594883548" expanded="true" signature="130:815" ph="{...}" />
-            <marker date="1546594883548" expanded="true" signature="175:813" ph="{...}" />
-            <marker date="1546594883548" expanded="true" signature="264:342" ph="{...}" />
-            <marker date="1546594883548" expanded="true" signature="435:586" ph="{...}" />
-            <marker date="1546594883548" expanded="true" signature="656:798" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/KataCalculator/StringCalculator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
@@ -373,6 +351,22 @@
             <marker date="1546594933664" expanded="true" signature="349:408" ph="{...}" />
             <marker date="1546594933664" expanded="true" signature="553:731" ph="{...}" />
             <marker date="1546594933664" expanded="true" signature="621:717" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KataCalculatorTests/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <marker date="1546595417321" expanded="false" signature="6:99" ph="..." />
+            <marker date="1546595417321" expanded="true" signature="130:1064" ph="{...}" />
+            <marker date="1546595417321" expanded="true" signature="175:1062" ph="{...}" />
+            <marker date="1546595417321" expanded="true" signature="264:342" ph="{...}" />
+            <marker date="1546595417321" expanded="true" signature="435:586" ph="{...}" />
+            <marker date="1546595417321" expanded="true" signature="656:798" ph="{...}" />
+            <marker date="1546595417321" expanded="true" signature="880:1029" ph="{...}" />
           </folding>
         </state>
       </provider>
